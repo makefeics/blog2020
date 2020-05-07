@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yoursite.example.com/posts/</loc>
+    <loc>https://makefeics.netlify.app/posts/</loc>
+    <lastmod>2020-05-07T23:45:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makefeics.netlify.app/posts/20200507/</loc>
+    <lastmod>2020-05-07T23:45:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makefeics.netlify.app/</loc>
+    <lastmod>2020-05-07T23:45:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makefeics.netlify.app/posts/my-first-post/</loc>
     <lastmod>2020-05-06T23:00:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yoursite.example.com/posts/my-first-post/</loc>
-    <lastmod>2020-05-06T23:00:50+08:00</lastmod>
+    <loc>https://makefeics.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://yoursite.example.com/</loc>
-    <lastmod>2020-05-06T23:00:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.example.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.example.com/tags/</loc>
+    <loc>https://makefeics.netlify.app/tags/</loc>
   </url>
   
 </urlset>
