@@ -1,4 +1,4 @@
-baseURL = "http://yoursite.example.com/"
+baseURL = "https://makefeics.netlify.app/" 
 languageCode = "en-us"
 title = "每天4小时"
 theme = "ananke"
