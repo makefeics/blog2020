@@ -1,5 +1,5 @@
 ---
-title: "小龙饭否抄录"
+title: "小龙饭否"
 date: 2020-05-08T16:13:54+08:00
 description: "小龙的饭否"
 featured_image: "/images/xiaolong.png"

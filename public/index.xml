@@ -6,13 +6,28 @@
     <description>Recent content on 每天4小时</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 May 2020 16:13:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 23:01:20 +0800</lastBuildDate>
     
 	<atom:link href="https://www.apm.best/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>小龙饭否抄录</title>
+      <title>关于多平台一体化解决方案</title>
+      <link>https://www.apm.best/posts/allinone/</link>
+      <pubDate>Fri, 08 May 2020 23:01:20 +0800</pubDate>
+      
+      <guid>https://www.apm.best/posts/allinone/</guid>
+      <description>&lt;h4 id=&#34;随感&#34;&gt;随感&lt;/h4&gt;
+&lt;p&gt;随着技术的进步迭代，对很多公司渠道资源远比开发资源重要，一些小公司的需求能够以越来越低的成本和方式完成。&lt;/p&gt;
+&lt;p&gt;看到这两个网站&lt;/p&gt;
+&lt;p&gt;云打包：http://www.yundabao.cn/&lt;/p&gt;
+&lt;p&gt;uniapp：https://uniapp.dcloud.net.cn/&lt;/p&gt;
+&lt;p&gt;云打包可以由h5生成IOS和Android的客户端。&lt;/p&gt;
+&lt;p&gt;uniapp使用Vue.js，号称开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/百度/头条/QQ/钉钉/淘宝）、快应用等多个平台。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小龙饭否</title>
       <link>https://www.apm.best/posts/xiaolong-fanfou/</link>
       <pubDate>Fri, 08 May 2020 16:13:54 +0800</pubDate>
       
@@ -48,8 +63,9 @@
       
       <guid>https://www.apm.best/posts/hello-world/</guid>
       <description>&lt;h4 id=&#34;博客由来&#34;&gt;博客由来&lt;/h4&gt;
-&lt;p&gt;我家住上海周边的昆山花桥，工作在上海长宁，每天早晨做8点的班车花2个小时过去，晚上同样2个小时回来，一来一回总共有4个小时的时间。&lt;/p&gt;
-&lt;p&gt;在车上听听podcast，顺便写点东西。&lt;/p&gt;</description>
+&lt;p&gt;我家住上海周边的昆山花桥，工作在上海长宁，每天早晨做8点的大巴花2个小时过去，晚上同样2个小时回来，一来一回总共有4个小时的时间。&lt;/p&gt;
+&lt;p&gt;车上怎么样打发时间呢？&lt;/p&gt;
+&lt;p&gt;困了就睡一觉，无聊就听听Podcast，有精力就顺便写点东西。&lt;/p&gt;</description>
     </item>
     
   </channel>

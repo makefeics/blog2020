@@ -28,4 +28,3 @@ Markdown语法+Github免费静态页面托管+自动编译发布
 《Code:The Hidden Language of Computer Hardware and Software》(1999)  Charles Petzold
 介绍数字信息的本质以及计算机处理数字信息的方式，5星必读。
 
-#### 晚安好梦
