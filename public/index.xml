@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每天4小时</title>
-    <link>/</link>
+    <link>https://www.apm.best/</link>
     <description>Recent content on 每天4小时</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2020 23:45:54 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.apm.best/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>博客架构</title>
-      <link>/posts/20200507/</link>
+      <link>https://www.apm.best/posts/20200507/</link>
       <pubDate>Thu, 07 May 2020 23:45:54 +0800</pubDate>
       
-      <guid>/posts/20200507/</guid>
+      <guid>https://www.apm.best/posts/20200507/</guid>
       <description>方案 Hugo + Github Pages + Netlify
 优点 Markdown语法+Github免费静态页面托管+自动编译发布
 目前存在问题 延迟丢包 ping了下博客地址 apm.best 延迟丢包严重；测试发现DNS对国内大陆支持很差，因为DNS解析位于台湾。
@@ -27,10 +27,10 @@
     
     <item>
       <title>万物伊始</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://www.apm.best/posts/my-first-post/</link>
       <pubDate>Wed, 06 May 2020 23:00:50 +0800</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://www.apm.best/posts/my-first-post/</guid>
       <description>博客由来 我家住花桥，工作在上海，做班车早晨2个小时过去，晚上2个小时回来，总共有4个小时的时间可以利用。 在车上听听podcast，顺便写点东西。 不定期更新。
 特别鸣谢:老婆-朵朵  </description>
     </item>
