@@ -1,5 +1,7 @@
 ---
 title: "小龙饭否"
+categories: 
+ - 读书笔记
 date: 2020-05-08T16:13:54+08:00
 description: "小龙的饭否"
 featured_image: "/images/xiaolong.png"

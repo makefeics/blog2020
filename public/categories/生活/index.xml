@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活 on 每天4小时</title>
+    <link>https://www.apm.best/categories/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on 每天4小时</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 06 May 2020 23:00:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.apm.best/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>万物伊始</title>
+      <link>https://www.apm.best/posts/hello-world/</link>
+      <pubDate>Wed, 06 May 2020 23:00:50 +0800</pubDate>
+      
+      <guid>https://www.apm.best/posts/hello-world/</guid>
+      <description>&lt;h4 id=&#34;博客由来&#34;&gt;博客由来&lt;/h4&gt;
+&lt;p&gt;我家住上海周边的昆山花桥，工作在上海长宁，每天早晨做8点的大巴花2个小时过去，晚上同样2个小时回来，一来一回总共有4个小时的时间。&lt;/p&gt;
+&lt;p&gt;车上怎么样打发时间呢？&lt;/p&gt;
+&lt;p&gt;困了就睡一觉，无聊就听听Podcast，有精力就顺便写点东西。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

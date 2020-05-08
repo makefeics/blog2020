@@ -1,5 +1,7 @@
 ---
 title: "博客架构"
+categories: 
+ - 互联网
 date: 2020-05-07T23:45:54+08:00
 description: "Blog的架构"
 featured_image: "/images/blog.jpg"

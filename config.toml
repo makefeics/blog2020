@@ -1,6 +1,6 @@
+title = "每天4小时"
 baseURL = "https://www.apm.best/" 
 languageCode = "zh-CN"
-title = "每天4小时"
 theme = "ananke"
 
 # 自动检测是否包含中文/日文/韩文，该参数会影响摘要和字数统计功能，建议设置为true
@@ -13,17 +13,39 @@ preserveTaxonomyNames = true
 paginate = 10
 paginatePath = "page"
 
+googleAnalytics = ""
+
 # 启用 Emoji; see emoji-cheat-sheet.com
 enableEmoji = false
 
 # 创建robots.txt，建议设置为true
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 # 定义文章访问路径，详细见下文"URL管理" See "content-management/urls/"
 # permalinks = ""
 
+disqusShortname = "apm-best"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-white"
   featured_image = "/images/beach.jpg"
   recent_posts_number = 5
+  commentoEnable = true

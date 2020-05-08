@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>互联网 on 每天4小时</title>
+    <link>https://www.apm.best/categories/%E4%BA%92%E8%81%94%E7%BD%91/</link>
+    <description>Recent content in 互联网 on 每天4小时</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 07 May 2020 23:45:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.apm.best/categories/%E4%BA%92%E8%81%94%E7%BD%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>博客架构</title>
+      <link>https://www.apm.best/posts/blog-architecture/</link>
+      <pubDate>Thu, 07 May 2020 23:45:54 +0800</pubDate>
+      
+      <guid>https://www.apm.best/posts/blog-architecture/</guid>
+      <description>&lt;h4 id=&#34;方案&#34;&gt;方案&lt;/h4&gt;
+&lt;p&gt;Hugo + Github Pages + Netlify&lt;/p&gt;
+&lt;h4 id=&#34;优点&#34;&gt;优点&lt;/h4&gt;
+&lt;p&gt;Markdown语法+Github免费静态页面托管+自动编译发布&lt;/p&gt;
+&lt;h4 id=&#34;存在问题&#34;&gt;存在问题&lt;/h4&gt;
+&lt;p&gt;延迟丢包:ping了下博客地址 apm.best 延迟丢包严重；测试发现DNS对国内大陆支持很差，因为DNS解析位于台湾。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

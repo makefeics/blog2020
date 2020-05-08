@@ -1,5 +1,7 @@
 ---
 title: "万物伊始"
+categories: 
+ - 生活
 date: 2020-05-06T23:00:50+08:00
 description: "博客名称由来"
 featured_image: "/images/travelbus.jpg"
