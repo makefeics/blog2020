@@ -1,6 +1,9 @@
 ---
 title: "小龙饭否抄录"
 date: 2020-05-08T16:13:54+08:00
+description: "小龙的饭否"
+featured_image: "/images/xiaolong.png"
+tags: ["wechat"]
 draft: false
 ---
 #### 缘起

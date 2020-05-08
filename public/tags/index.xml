@@ -6,9 +6,37 @@
     <description>Recent content in Tags on 每天4小时</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Fri, 08 May 2020 16:13:54 +0800</lastBuildDate>
     
 	<atom:link href="https://www.apm.best/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>wechat</title>
+      <link>https://www.apm.best/tags/wechat/</link>
+      <pubDate>Fri, 08 May 2020 16:13:54 +0800</pubDate>
+      
+      <guid>https://www.apm.best/tags/wechat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.apm.best/tags/blog/</link>
+      <pubDate>Thu, 07 May 2020 23:45:54 +0800</pubDate>
+      
+      <guid>https://www.apm.best/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://www.apm.best/tags/hello-world/</link>
+      <pubDate>Wed, 06 May 2020 23:00:50 +0800</pubDate>
+      
+      <guid>https://www.apm.best/tags/hello-world/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

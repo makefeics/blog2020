@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://www.apm.best/tags/</loc>
+    <lastmod>2020-05-08T16:13:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.apm.best/tags/wechat/</loc>
+    <lastmod>2020-05-08T16:13:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.apm.best/posts/xiaolong-fanfou/</loc>
     <lastmod>2020-05-08T16:13:54+08:00</lastmod>
   </url>
@@ -18,8 +28,18 @@
   </url>
   
   <url>
+    <loc>https://www.apm.best/tags/blog/</loc>
+    <lastmod>2020-05-07T23:45:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.apm.best/posts/blog-architecture/</loc>
     <lastmod>2020-05-07T23:45:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.apm.best/tags/hello-world/</loc>
+    <lastmod>2020-05-06T23:00:50+08:00</lastmod>
   </url>
   
   <url>
@@ -29,10 +49,6 @@
   
   <url>
     <loc>https://www.apm.best/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.apm.best/tags/</loc>
   </url>
   
 </urlset>
