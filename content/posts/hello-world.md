@@ -19,7 +19,6 @@ draft: false
 
 #### 特别感谢
 感谢老婆-朵朵对我的一路支持，愿生活充满阳光，一路鸟语花香。
-![1588946568640.png](https://makefeics.github.io//images/aGVsbG8td29ybGQubWQ=/1588946568640.png)
 
 #### 书籍推荐
 书名：《Shaping Things》 作者：Bruce Sterling

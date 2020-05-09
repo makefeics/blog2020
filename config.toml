@@ -48,4 +48,4 @@ disqusShortname = "apm-best"
   background_color_class = "bg-white"
   featured_image = "/images/beach.jpg"
   recent_posts_number = 5
-  commentoEnable = true
+  commentoEnable = false
