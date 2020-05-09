@@ -114,4 +114,18 @@
     <priority>0.5</priority>
   </url>
   
+  <url>
+    <loc>https://www.apm.best/posts/affliate-marketing/</loc>
+    <lastmod>2019-08-21T23:01:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.apm.best/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2019-08-21T23:01:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
