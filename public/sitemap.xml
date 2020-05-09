@@ -142,4 +142,11 @@
     <priority>0.5</priority>
   </url>
   
+  <url>
+    <loc>https://www.apm.best/posts/principle/</loc>
+    <lastmod>2019-04-09T23:25:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
