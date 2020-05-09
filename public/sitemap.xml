@@ -128,4 +128,11 @@
     <priority>0.5</priority>
   </url>
   
+  <url>
+    <loc>https://www.apm.best/posts/positioning/</loc>
+    <lastmod>2019-06-09T18:18:10+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
