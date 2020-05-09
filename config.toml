@@ -24,7 +24,7 @@ enableRobotsTXT = true
 # 定义文章访问路径，详细见下文"URL管理" See "content-management/urls/"
 # permalinks = ""
 
-disqusShortname = "apm-best"
+# disqusShortname = "apm-best"
 
 [sitemap]
   changefreq = "monthly"
@@ -35,10 +35,10 @@ disqusShortname = "apm-best"
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/makefeics"
   gitlab = ""
   linkedin = ""
   mastodon = ""
@@ -49,3 +49,18 @@ disqusShortname = "apm-best"
   featured_image = "/images/beach.jpg"
   recent_posts_number = 5
   commentoEnable = false
+  show_reading_time = true
+
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+# 参数配置项参考：https://valine.js.org/configuration.html
+[params.valine]
+  enable = true
+  appId = 'jLMpCSVDrCKbffKdEwazLJjp-gzGzoHsz'
+  appKey = 'eoFP9hmyVxPrjOhUDhvO42ip'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mp' # 头像配置：https://valine.js.org/avatar.html
+  placeholder = '✒️说点什么吧，该评论支持Markdown语法，请文明留言哦...'
+  visitor = true # 阅读量统计配置：https://valine.js.org/visitor.html
