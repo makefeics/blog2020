@@ -25,6 +25,7 @@ draft: false
 	- You must learn to WALK before you can RUN.
 
 3.	Not Taking Action
+<!--more-->
 
 #### C.	Tony Wang
 

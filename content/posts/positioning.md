@@ -7,7 +7,6 @@ featured_image: "/images/positioning.jpg"
 draft: false
 ---
 
-###	《定位》
 很多餐饮品牌背后是一家公司，可能也是受定位的影响，不同的品牌占领用户不同位置的心智，不能乱用品牌延伸，宝洁也是这样。
 
 #### 致中国读者
