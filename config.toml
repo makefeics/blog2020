@@ -26,6 +26,49 @@ enableRobotsTXT = true
 
 # disqusShortname = "apm-best"
 
+
+# 主导航菜单
+name="首页"
+url="/"
+weight="1"
+[[menu.main]]
+name="生活世界"
+url="/post"
+weight="2"
+[[menu.main]]
+name="主观世界"
+url="/news"
+weight="3"
+[[menu.main]]
+name="社会世界"
+url="/about"
+weight="4"
+[[menu.main]]
+name="客观世界"
+url="/about"
+weight="5"
+
+
+# 页脚导航菜单
+[[menu.foot]]
+name="网站首页"
+url="/"
+weight="4"
+[[menu.foot]]
+name="博文集合"
+url="/post"
+weight="3"
+[[menu.foot]]
+name="新闻列表"
+url="/news"
+weight="2"
+[[menu.foot]]
+name="关于我们"
+url="/about"
+weight="1"
+
+
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
