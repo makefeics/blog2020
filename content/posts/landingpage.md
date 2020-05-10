@@ -35,11 +35,11 @@ D.	Use Authority / Trust Seals
 
 1.	One thing I learned early on is to give a user only TWO options when they arrive at one of my landers. A. Leave B. Click the CTA to the offer
 
-E.	Tip #15 Reduce Navigation Options
+E.	Reduce Navigation Options
 
 1.	I use GTMetrix.com to test all of my landing pages. Aim to have them load under 500ms for mobile.  The faster the better.
 
-2.	Tip #21 Include Appropriate Scripts Affiliate marketing is a competition, and some industries are a lot more competitive than others. There are Javascript/PHP scripts you can use on your landing pages to help increase CTR, but this is an advanced topic. If you check out some of the popular torrent/adult sites you will see these scripts in action. This is a topic most affiliates don’t talk about publicly as they pay a lot of money to programmers to develop these. There are some examples on forums like STM, but this isn’t something I talk about publicly.
+2.	Include Appropriate Scripts Affiliate marketing is a competition, and some industries are a lot more competitive than others. There are Javascript/PHP scripts you can use on your landing pages to help increase CTR, but this is an advanced topic. If you check out some of the popular torrent/adult sites you will see these scripts in action. This is a topic most affiliates don’t talk about publicly as they pay a lot of money to programmers to develop these. There are some examples on forums like STM, but this isn’t something I talk about publicly.
 
 3.	Double Check All Links Before Launch.
 
