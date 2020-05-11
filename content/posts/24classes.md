@@ -2,7 +2,7 @@
 title: "陈志武与女儿的24堂金融课脉络"
 date: 2019-10-11T21:46:52+08:00
 featured_image: "/images/24classes.jpg"
-draft: true
+draft: false
 ---
 ### 陈志武与女儿的24堂金融课脉络
 
