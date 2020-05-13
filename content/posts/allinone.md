@@ -9,6 +9,10 @@ featured_image: "/images/cloudpackaging.jpg"
 draft: false
 ---
 
+[toc]
+
+
+
 #### 随感
 
 随着技术的进步迭代，对很多公司渠道资源远比开发资源重要，一些小公司的需求能够以越来越低的成本和方式完成。

@@ -7,6 +7,9 @@ featured_image: "/images/11mistakes.png"
 draft: false
 ---
 
+[toc]
+
+
 
 #### A.	Finch
 

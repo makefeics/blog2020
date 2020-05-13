@@ -5,6 +5,8 @@ featured_image: "/images/trax.jpg"
 draft: false
 ---
 
+
+
 ### 从Trax智能货架谈起
 
 > https://traxretail.com/
