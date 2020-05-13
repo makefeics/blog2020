@@ -9,7 +9,7 @@ tags: ["Blog"]
 draft: false
 ---
 #### 方案
-<a href="https://gohugo.io" target="_blank">Hugo</a> + [GitHub Pages][https://pages.github.com/] + [Netlify][https://www.netlify.com/] + [Cloudflare][https://www.cloudflare.com/]
+<a href="https://gohugo.io" target="_blank">Hugo</a> + <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> + <a href="https://www.netlify.com/" target="_blank">Netlify</a> + <a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>
 
 #### 优点
 Markdown语法+Github免费静态页面托管+自动编译发布
