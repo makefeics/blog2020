@@ -9,7 +9,7 @@ tags: ["Blog"]
 draft: false
 ---
 #### 方案
-[Hugo][https://gohugo.io/] + [GitHub Pages][https://pages.github.com/] + [Netlify][https://www.netlify.com/] + [Cloudflare][https://www.cloudflare.com/]
+[Hugo]（https://gohugo.io/）{:target="_blank"} + [GitHub Pages][https://pages.github.com/] + [Netlify][https://www.netlify.com/] + [Cloudflare][https://www.cloudflare.com/]
 
 #### 优点
 Markdown语法+Github免费静态页面托管+自动编译发布

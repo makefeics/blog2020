@@ -7,7 +7,7 @@ featured_image: "/images/positioning.jpg"
 draft: false
 ---
 
-[toc]
+
 
 
 

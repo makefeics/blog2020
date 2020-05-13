@@ -9,7 +9,7 @@ featured_image: "/images/cloudpackaging.jpg"
 draft: false
 ---
 
-[toc]
+
 
 
 

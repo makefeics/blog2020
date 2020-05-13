@@ -7,7 +7,7 @@ featured_image: "/images/11mistakes.png"
 draft: false
 ---
 
-[toc]
+
 
 
 
@@ -107,9 +107,9 @@ Angles, angles, angles – repeat this to yourself because it’s the secret jui
 2. it is what make people tick and act.
 
 	- Scaring people with a scary angle;
-
+	
 	- appealing to their wants and desires with a sexy angle;
-
+	
 	- solving their extremely urgent problem with the right solution are all angles.
 
 #### N.	
@@ -149,16 +149,16 @@ Images are everything on visual traffic sources like Google Display, Facebook �
 4. I made decisions without statistically significant data.
 
 	-  I would pause a campaign because I didn’t get a conversion after spending $20 (even though the offer payout was $30).
-
+	
 	-  try to distract yourself with other tasks while data is coming in.
 
 5. I didn’t treat affiliate marketing like a proper business.
 
 	- I also paid $250,000 worth of taxes in my first year because I did business under my personal name
-
+	
 	- Take time to set your business bits and pieces up like company registration,
-
+	
 	- get an accountant etc.
-
+	
 	- Don’t be scared to hire help, you can’t doeverythingyourself.
 
