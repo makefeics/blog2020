@@ -18,7 +18,8 @@
       
       <guid>https://www.apm.best/posts/blog-architecture/</guid>
       <description>&lt;h4 id=&#34;方案&#34;&gt;方案&lt;/h4&gt;
-&lt;p&gt;Hugo + Github Pages + Netlify&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../static/wind1.jpg&#34; alt=&#34;wind1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Hugo&lt;!-- raw HTML omitted --&gt; + &lt;!-- raw HTML omitted --&gt;GitHub Pages&lt;!-- raw HTML omitted --&gt; + &lt;!-- raw HTML omitted --&gt;Netlify&lt;!-- raw HTML omitted --&gt; + &lt;!-- raw HTML omitted --&gt;Cloudflare&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点&#34;&gt;优点&lt;/h4&gt;
 &lt;p&gt;Markdown语法+Github免费静态页面托管+自动编译发布&lt;/p&gt;
 &lt;h4 id=&#34;存在问题&#34;&gt;存在问题&lt;/h4&gt;
@@ -31,7 +32,8 @@
       <pubDate>Wed, 21 Aug 2019 23:01:20 +0800</pubDate>
       
       <guid>https://www.apm.best/posts/affliate-marketing/</guid>
-      <description>&lt;h4 id=&#34;tip1&#34;&gt;Tip1&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;raintestrainjpg&#34;&gt;&lt;img src=&#34;https://www.apm.best/test/rain.jpg&#34; alt=&#34;rain&#34;&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;tip1&#34;&gt;Tip1&lt;/h4&gt;
 &lt;p&gt;Affiliate Markting不好搞，入坑需谨慎。&lt;/p&gt;
 &lt;h4 id=&#34;tip2&#34;&gt;Tip2&lt;/h4&gt;
 &lt;p&gt;初期定目标应该关注可以实现的OKR 而不是收入的KPI.

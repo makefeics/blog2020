@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.apm.best/categories/</loc>
-    <lastmod>2020-05-08T23:01:20+08:00</lastmod>
+    <loc>https://www.apm.best/posts/</loc>
+    <lastmod>2020-05-12T22:37:20+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.apm.best/posts/</loc>
+    <loc>https://www.apm.best/posts/traxretail/</loc>
+    <lastmod>2020-05-12T22:37:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.apm.best/</loc>
+    <lastmod>2020-05-12T22:37:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.apm.best/categories/</loc>
     <lastmod>2020-05-08T23:01:20+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -25,13 +39,6 @@
   
   <url>
     <loc>https://www.apm.best/posts/allinone/</loc>
-    <lastmod>2020-05-08T23:01:20+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.apm.best/</loc>
     <lastmod>2020-05-08T23:01:20+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -110,6 +117,13 @@
   <url>
     <loc>https://www.apm.best/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2020-05-06T23:00:50+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.apm.best/posts/24classes/</loc>
+    <lastmod>2019-10-11T21:46:52+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
