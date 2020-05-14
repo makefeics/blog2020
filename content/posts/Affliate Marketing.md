@@ -11,7 +11,7 @@ featured_image: "/images/affiliate-marketing.jpg"
 draft: false
 ---
 
-
+![wind2](../../static/images/wind2.jpg)
 
 #### Tip1
 
