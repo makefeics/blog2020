@@ -76,7 +76,8 @@
       <pubDate>Wed, 06 May 2020 23:00:50 +0800</pubDate>
       
       <guid>https://www.apm.best/posts/hello-world/</guid>
-      <description>&lt;h4 id=&#34;博客由来&#34;&gt;博客由来&lt;/h4&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;../../static/typoraback/rain777.jpg&#34; alt=&#34;rain777&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;博客由来&#34;&gt;博客由来&lt;/h4&gt;
 &lt;p&gt;我家住上海周边的昆山花桥，工作在上海长宁，每天早晨做8点的大巴花2个小时过去，晚上同样2个小时回来，一来一回总共有4个小时的时间。&lt;/p&gt;
 &lt;p&gt;车上怎么样打发时间呢？&lt;/p&gt;
 &lt;p&gt;困了就睡一觉，无聊就听听Podcast，有精力就顺便写点东西。&lt;/p&gt;</description>
@@ -124,8 +125,7 @@
       <pubDate>Wed, 21 Aug 2019 23:01:20 +0800</pubDate>
       
       <guid>https://www.apm.best/posts/affliate-marketing/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../static/test/wind777.jpg&#34; alt=&#34;wind777&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;tip1&#34;&gt;Tip1&lt;/h4&gt;
 &lt;p&gt;Affiliate Markting不好搞，入坑需谨慎。&lt;/p&gt;
 &lt;h4 id=&#34;tip2&#34;&gt;Tip2&lt;/h4&gt;
