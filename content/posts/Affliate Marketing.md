@@ -11,9 +11,7 @@ featured_image: "/images/affiliate-marketing.jpg"
 draft: false
 ---
 
-
-
-#### ![rain](/test/rain.jpg)
+#### 
 
 #### Tip1
 

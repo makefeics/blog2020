@@ -10,6 +10,7 @@ draft: false
 
 ---
 
+![rain777](../../static/typoraback/rain777.jpg)
 
 #### 博客由来
 
