@@ -13,6 +13,8 @@ draft: false
 
 ![wind2](../../static/images/wind2.jpg)
 
+New
+
 #### Tip1
 
 Affiliate Markting不好搞，入坑需谨慎。 
