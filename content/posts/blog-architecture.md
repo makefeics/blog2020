@@ -10,7 +10,7 @@ draft: false
 ---
 #### 方案
 
-![wind](../../static/images/wind.jpg)
+![wind](../../images/wind.jpg)
 
 <a href="https://gohugo.io" target="_blank">Hugo</a> + <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> + <a href="https://www.netlify.com/" target="_blank">Netlify</a> + <a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>
 
