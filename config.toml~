@@ -19,7 +19,7 @@ googleAnalytics = ""
 enableEmoji = false
 
 # 创建robots.txt，建议设置为true
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 # 定义文章访问路径，详细见下文"URL管理" See "content-management/urls/"
 # permalinks = ""
